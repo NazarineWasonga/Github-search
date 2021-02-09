@@ -18,6 +18,16 @@ Search Users - Search for Users on GitHub based on their usernames
 
 ## BDD
 
+### Behavior
+Search for Github profile.
+### Input
+Enter the github username
+### Output
+Displays the name, username, number of repositories,followers, following and lists the repositories.
+
+## SetUp Instructions
+
+
 
 
 Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
