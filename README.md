@@ -12,11 +12,36 @@ This is a website built using Angular CLI that allows a user to enter a GitHub u
 
 https://nazarinewasonga.github.io/Github-search/
 
-## Development server
+The website is composed;
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+Search Users - Search for Users on GitHub based on their usernames
 
-## Code scaffolding
+## BDD
+
+### Behavior
+Search for Github profile.
+### Input
+Enter the github username
+### Output
+Displays the name, username, number of repositories,followers, following and lists the repositories.
+
+## SetUp Instructions
+
+Open Terminal {Ctrl+Alt+T}
+
+git clone https://nazarinewasonga.github.io/Github-search/
+
+
+cd Github-Search
+
+code . or atom . based on the text editor you have.
+
+Run ng serve for a dev server.
+
+Navigate to http://localhost:4200/.
+
+npm install && ng serve
+
 
 Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
 
