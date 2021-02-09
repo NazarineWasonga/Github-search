@@ -1,6 +1,16 @@
-# Github
+# Github-search
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.1.1.
+## Author
+
+NazarineWasonga
+
+## Description
+
+This is a website built using Angular CLI that allows a user to enter a GitHub username into a form, submit it, see names and description of that person's public repositories. A person can also look for repositories based on GitHub username.
+
+## Live Page
+
+https://nazarinewasonga.github.io/Github-search/
 
 ## Development server
 
