@@ -42,21 +42,28 @@ Navigate to http://localhost:4200/.
 
 npm install && ng serve
 
+## Technology Used
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+Angular CLI
 
-## Build
+HTML5
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
+CSS3
 
-## Running unit tests
+Bootstrap
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+Typescript
 
-## Running end-to-end tests
+Generated with Angular CLI version 11.1.1
 
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
+## Contact Information
 
-## Further help
+If you have any question or contributions, please email me at [nazarinewasong48@gmail.com]
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+## License
+
+MIT License:
+
+Copyright(c) 2021 NazarineWasonga
+
+
