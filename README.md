@@ -56,5 +56,14 @@ Typescript
 
 Generated with Angular CLI version 11.1.1
 
+## Contact Information
+
+If you have any question or contributions, please email me at [nazarinewasong48@gmail.com]
+
+## License
+
+MIT License:
+
+Copyright(c) 2021 NazarineWasonga
 
 
