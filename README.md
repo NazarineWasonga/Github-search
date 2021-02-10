@@ -29,7 +29,7 @@ Displays the name, username, number of repositories,followers, following and lis
 
 Open Terminal {Ctrl+Alt+T}
 
-git clone https://nazarinewasonga.github.io/Github-search/
+git clone https://github.com/NazarineWasonga/Github-search.git
 
 
 cd Github-Search
