@@ -32,7 +32,7 @@ Open Terminal {Ctrl+Alt+T}
 git clone https://github.com/NazarineWasonga/Github-search.git
 
 
-cd Github-Search
+cd Github-search
 
 code . or atom . based on the text editor you have.
 
